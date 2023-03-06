@@ -126,3 +126,10 @@ display: inline-block;
 margin: 0 25px;
 padding: 5px;
 }
+
+.contact_link:hover{
+background-color: rgba(255, 255, 255, 0.7);
+border-radius: 30px;
+border-color: aliceblue;
+cursor: default;
+}
