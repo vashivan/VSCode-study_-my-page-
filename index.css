@@ -1,6 +1,6 @@
 html{
    scroll-behavior: smooth;
-   background-color: whitesmoke;
+   background-color: gainsboro;
 }
 
 
@@ -80,6 +80,8 @@ min-height: calc(
 }
 
 section{
+   background-color: 
+   whitesmoke;
    cursor: pointer;
    box-sizing: auto;
    height: auto;
